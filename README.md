@@ -9,7 +9,7 @@
 > File Structure\
 > Usage\
 > Contributing\
-> License\
+> License
 
 ### Introduction
 
